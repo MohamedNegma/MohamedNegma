@@ -32,7 +32,7 @@ VS Code | Android Studio | Git (learning)
 
 ### 🔌 Embedded Systems
 
-Arduino | ESP | PIC | 8086
+Arduino | ESP | PIC 8086
 
 ---
 
@@ -41,6 +41,7 @@ Arduino | ESP | PIC | 8086
 ### 📱 Flutter Projects
 
 * To-Do App
+* Weather App
 * Hedity App (Customized & Improved from existing project)
 
 ### 💻 Other Projects
@@ -50,17 +51,17 @@ Arduino | ESP | PIC | 8086
 
 ### 🔧 Embedded / IoT Projects
 
-* ⚽ Arduino Football Playing Car
-* ⚙️ Tachometer using PIC
-* 🤖 ARM Robot using ESP (in progress)
+* ⚽ Car Playing Football Arduino
+* ⚙️ Tachometer using 8086 PIC
+* 🤖 ARM Robot using ESP
 
 ---
 
 ## 🏆 Experience
 
 * Internship at Petrojet
-* Internship at ITI (Information Technology Institute)
-* Head of Programming Languages Team at GDG Camps
+* Flutter Internship at ITI (One Mounth)
+* Head of Programming Languages Team at GDG On Camps
 
 ---
 
